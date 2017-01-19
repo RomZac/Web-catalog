@@ -1,0 +1,131 @@
+Manifest-Version: 1.2
+Name: com/ibm/useful/http/AuthorizedHttpURLHelper.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: mTLYgtSfx1es5PFFPErDFyRXCjQ=
+MD5-Digest: L+QjFc8jAglTqfJKeSgcnw==
+
+
+Name: com/ibm/useful/http/FileData.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: cMDeoJq0ua/eO3b1JodDTM4Wo0w=
+MD5-Digest: WLt4iTmB+VfIK2JjYRxj6A==
+
+
+Name: com/ibm/useful/http/HttpURLFileTransfer.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: GaEtq/SyQLwdLcMFoXubK4Jb6OI=
+MD5-Digest: jLpcNP0Oc9Nf4VJV/k1mXA==
+
+
+Name: com/ibm/useful/http/HttpSender.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: YrIa6Rg3n2Xv5JMRBj/PMBzzLDQ=
+MD5-Digest: EdAnj0c+h2cylhnDXDNn+A==
+
+
+Name: com/ibm/useful/http/HttpURLFileTransfer.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: xyKAKNUDFGvEmEl0mN43hbEQrl0=
+MD5-Digest: ByOqmUgncJqqFqvkCHCDPA==
+
+
+Name: com/ibm/useful/http/HttpSender.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: k3orlCk1/wFzRw/54mH1KuFX0Mg=
+MD5-Digest: OJ7YNwJE6JvSTfs9BQt77A==
+
+
+Name: com/ibm/useful/http/HttpBasicAuthorizationHelper.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: osU6u6JcHqNOhVh3XgN6lUqKxt4=
+MD5-Digest: kbY+Ro/gIhRrA2XomTkAHA==
+
+
+Name: com/ibm/useful/http/HttpBasicAuthorizationHelper.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: 6dvOGFGxkZ8cxhgkDLJYbbBFDyI=
+MD5-Digest: QiRK+Q1nhLFA1c7gWTLecg==
+
+
+Name: com/ibm/useful/http/PostData.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: L+2FQ4IeV13ciLBY333CpQpIw0w=
+MD5-Digest: jJd0GHdagkYt4hJ1NbbtwA==
+
+
+Name: com/ibm/useful/http/AuthorizedHttpURLHelper.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: 72D0EO5ej3vlylHQDsCX0Oi19mU=
+MD5-Digest: fg/x9/IGD6kK95qkCqsGTA==
+
+
+Name: com/ibm/useful/http/StreamHelper.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: dn/PmnIRU4ShN3xn3ZRh5bMC3RM=
+MD5-Digest: tXt5ZxxkhDWlhNx75tW2VA==
+
+
+Name: com/ibm/useful/http/PostData.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: xlAPwhjwW6n7HiFBF9Yekqt7GXA=
+MD5-Digest: Y0gFs3+dNl04V5QzPR5ptg==
+
+
+Name: com/ibm/useful/http/FileData.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: KHwOK/vHsvJn1+aQcEJW8iP0A5A=
+MD5-Digest: Cd1YAIp13MVFuKJssksRsw==
+
+
+Name: com/ibm/useful/http/HttpFileTransfer.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: 9beHkwBj0m+HTHEsBWCGHb/Pfuc=
+MD5-Digest: 0PjWg4wZeci8aQ6R1z6YvQ==
+
+
+Name: com/ibm/useful/http/HttpHeader.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: rXzwbUwR/f9wXIGC7nt87lGRSiw=
+MD5-Digest: 3PEcsqq2BMrisAF98oAV+w==
+
+
+Name: com/ibm/useful/http/StreamHelper.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: PteBd/UzWupYH57/GxAYiqSabxM=
+MD5-Digest: K3g08RyBSt1Zl/DbmgQvpA==
+
+
+Name: com/ibm/useful/http/
+Sealed: True
+
+
+Name: com/ibm/useful/http/HttpFileTransfer.java
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: 1BjdmAXC4VQf8DRCo2XHifaJ0/s=
+MD5-Digest: IxTrz2b2NC5eNJxOiJEjMQ==
+
+
+Name: com/ibm/useful/http/HttpHeader.class
+Java-Bean: False
+Digest-Algorithms: SHA MD5
+SHA-Digest: nQPD7Z1fckXMihSbTn1uLLmBGOg=
+MD5-Digest: 8nSQTrpZ+/yITwCHwRGZmQ==
+
+
